@@ -1,6 +1,6 @@
 <?php
 
-namespace Kparse\src;
+namespace Kparse;
 
 use Jaybizzle\CrawlerDetect\CrawlerDetect;
 
